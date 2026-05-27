@@ -36,3 +36,30 @@
 </div>
 
 ###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sejalc6787&label=Profile%20views&color=0e75b6&style=flat" alt="sejalc6787" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sejalc6787" alt="sejalc6787" /></a> </p>
+
+- 🌱 **Currently learning and improving my skills in development and problem-solving(DSA)**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-sejalc496-7764s-projects.vercel.app/](https://portfolio-sejalc496-7764s-projects.vercel.app/)
+
+- 📫 How to reach me **sejalc496@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sejal6787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sejal6787" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sejal-choudhary-910301348/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sejal-choudhary-910301348/" height="30" width="40" /></a>
+<a href="https://instagram.com/sejal_c67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sejal_c67" height="30" width="40" /></a>
+<a href="https://medium.com/@sejalc496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sejalc496" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sejalchoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sejalchoudhary" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sejalco00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sejalco00" height="30" width="40" /></a>
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sejalc6787&show_icons=true&locale=en&layout=compact" alt="sejalc6787" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sejalc6787&show_icons=true&locale=en" alt="sejalc6787" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sejalc6787&" alt="sejalc6787" /></p>
+
