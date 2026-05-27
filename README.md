@@ -29,11 +29,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sejalc6787&label=Profile%20views&color=0e75b6&style=flat" alt="sejalc6787" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sejalc6787" alt="sejalc6787" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sejalc6787" alt="sejalc6787" /></a> 
 
-- 👨‍💻My portfolio - [https://portfolio-sejalc496-7764s-projects.vercel.app/](https://portfolio-sejalc496-7764s-projects.vercel.app/)
+- 👨‍💻 [https://portfolio-sejalc496-7764s-projects.vercel.app/](https://portfolio-sejalc496-7764s-projects.vercel.app/)
 
-- 📫 How to reach me *sejalc496@gmail.com*
+- 📫 Reach me at - *sejalc496@gmail.com* </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
